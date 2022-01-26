@@ -11700,6 +11700,8 @@ body {
   border-radius: 0.25rem !important;
 }
 
-caption {
-  visibility: hidden;
+.imglogo {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
 }
